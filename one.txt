@@ -2,3 +2,4 @@ Big data
 Hadoop 
 architecture
 kafka-zookepper
+AWS kinesis Data Firebase 
